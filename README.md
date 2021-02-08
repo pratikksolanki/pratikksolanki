@@ -1,4 +1,4 @@
-# Hi, my name is Pratik
+# 👋 Hi, my name is Pratik
 
 - I am a first year CS Student @ Ryerson University
 - Contact: [Email](pratik@pratiksolanki.com)
