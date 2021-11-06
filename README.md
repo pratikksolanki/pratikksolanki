@@ -1,4 +1,4 @@
 # 👋 Hi!
 
-📧 [pratik@pratiksolanki.com](pratik@pratiksolanki.com)
-💻 [pratiksolanki.com](https://www.pratiksolanki.com/) (Updating soon)
+- Contact: [pratik@pratiksolanki.com](pratik@pratiksolanki.com)
+- Website: [pratiksolanki.com](https://www.pratiksolanki.com/) (Updating soon)
