@@ -1,3 +1,4 @@
-# 👋 Hi!
-
 - Website: [pratiksolanki.com](https://www.pratiksolanki.com/)
+- LinkedIn: [pratikksolanki](https://www.linkedin.com/in/pratikksolanki/)
+- X(Twitter): [@pratikksol](https://x.com/pratikksol)
+- Email: pratik [at] pratiksolanki [dot] com
